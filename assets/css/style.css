@@ -2566,7 +2566,7 @@ blockquote:before {
 
 /*----------------- S-TRAINER-AWARDS -----------------*/
 .s-trainer-awards {
-  padding: 0 0;
+  padding: 128px 0;
   text-align: center;
   background-position: center;
   background-repeat: no-repeat;
